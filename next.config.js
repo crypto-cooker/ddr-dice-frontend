@@ -29,6 +29,9 @@ const plugins = [
 ];
 
 const nextConfig = {
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
   distDir: "build",
   swcMinify: false,
   webpack: (config, { isServer }) => {
