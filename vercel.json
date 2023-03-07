@@ -1,7 +1,3 @@
 {
-    "devCommand": "next dev",
-    "framework": "nextjs",
-    "installCommand": "npm install",
-    "outputDirectory": "build",
-    "public": true
+    "devCommand": "next dev"
 }
