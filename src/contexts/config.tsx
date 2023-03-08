@@ -11,7 +11,7 @@ export const RANDOM_SEED = "set-random-number";
 export const TRESURY_WALLET = "Fs8R7R6dP3B7mAJ6QmWZbomBRuTbiJyiR4QYjoxhLdPu";
 export const PROGRAM_ID = "FbudCGq7GiwGhUV3kEaFWfyFE1Lbxs6VNcdn5Jo14nJQ";
 
-export const SERVER_ENDPOINT = "https://1394-91-194-11-168.ngrok.io"
+export const SERVER_ENDPOINT = "https://bonespoker.com:5000"
 
 export const SOLANA_DEVNET = "devnet"
 export const SOLANA_MAINNET = "mainnet-beta"
