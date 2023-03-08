@@ -38,7 +38,6 @@ import { useWallet } from "@solana/wallet-adapter-react";
 import { errorAlert } from '../toastGroup';
 import LoadingPage from "../LoadingPage";
 import { HamburgerMenu } from './Hamburger';
-import PopupState, { bindTrigger, bindMenu } from 'material-ui-popup-state';
 
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { useTheme } from '@mui/material/styles';
